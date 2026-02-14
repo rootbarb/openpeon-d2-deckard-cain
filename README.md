@@ -8,6 +8,10 @@
 
 A [peon-ping](https://github.com/PeonPing/peon-ping) sound pack featuring **Deckard Cain** from Diablo II.
 
+## Preview
+
+[Listen to all sounds](https://rootbarb.github.io/openpeon-preview/#rootbarb/openpeon-d2-deckard-cain)
+
 ## Sounds
 
 | Category | Clips |
