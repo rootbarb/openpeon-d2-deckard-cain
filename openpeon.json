@@ -1,0 +1,157 @@
+{
+  "cesp_version": "1.0",
+  "name": "d2_deckard_cain",
+  "display_name": "Deckard Cain (Diablo 2)",
+  "version": "1.0.0",
+  "author": {
+    "name": "lukasbarbagallo",
+    "github": "lukasbarbagallo"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/StayAWhileAndListen.wav",
+          "label": "Stay a while and listen!",
+          "sha256": "bf2e907a595e08a6021f3f2ff20551660df320a87adf2beb0d91dbce902264d3"
+        },
+        {
+          "file": "sounds/HelloMyFriend.wav",
+          "label": "Hello, my friend. Stay a while and listen.",
+          "sha256": "42206792e1e4dcbd9bc0238a86e797b90bb702641e083079657e463e88f8cbd5"
+        },
+        {
+          "file": "sounds/Hello.wav",
+          "label": "Hello.",
+          "sha256": "110efafd3f37d335a7f9d9de7fc08526733714448b53e830acd8a78c50919c42"
+        },
+        {
+          "file": "sounds/Greetings.wav",
+          "label": "Greetings.",
+          "sha256": "1b9f348aa6d7a3f090bc05cc88817170daa32fca8379bb6b3e57390a2f378d9e"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/Yes.wav",
+          "label": "Yes.",
+          "sha256": "a0130d436db61df1a2e501848d3118213bb5dcdb6fe65e4f58fdd30a1d2b05e5"
+        },
+        {
+          "file": "sounds/Help1.wav",
+          "label": "I can help.",
+          "sha256": "4c6248f896aada2b695722c8df6099998719187563acfa89c6da40704f3a0618"
+        },
+        {
+          "file": "sounds/Help2.wav",
+          "label": "Let me see...",
+          "sha256": "c0af068fb28acfe115a852ad883813827c801d484b0220fda79ca037880568f8"
+        },
+        {
+          "file": "sounds/Help3.wav",
+          "label": "Of course.",
+          "sha256": "8fc7e161d32830a7a3f009d2bade98299198edb89631319988859c0b9c7d577e"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/GoodToSeeYou.wav",
+          "label": "Good to see you.",
+          "sha256": "1432a7a01d830b11c92c3cef18691446000eb9a1c6fc624c05cc79faa4c65aa3"
+        },
+        {
+          "file": "sounds/GoodDay.wav",
+          "label": "Good day.",
+          "sha256": "35f34685af407f5997bacef6b3337b40b63eea4cf6d6eb1d5c1777ba4976574e"
+        },
+        {
+          "file": "sounds/GoodMorning.wav",
+          "label": "Good morning.",
+          "sha256": "21063d577ffa6c887d00d54acd909a85f887b1ec7d8ae2e406018400905be1fa"
+        },
+        {
+          "file": "sounds/Farewell.wav",
+          "label": "Farewell.",
+          "sha256": "666a3739f151144eeae38e4dde20f333c9d2a5e6f0aaa6c8e083a2b13bdb7ee8"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/NeedHelp.wav",
+          "label": "Need help?",
+          "sha256": "6e0944ca21283980671d40fc36c3d25abb7c3b5710bd41ad5c54015cd0ebaee5"
+        },
+        {
+          "file": "sounds/Goodbye.wav",
+          "label": "Goodbye.",
+          "sha256": "bf7995c6455436da50661d3414bcc354664bf7e38d25da20f73272569a569355"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/StayAWhileAndListen.wav",
+          "label": "Stay a while and listen!",
+          "sha256": "bf2e907a595e08a6021f3f2ff20551660df320a87adf2beb0d91dbce902264d3"
+        },
+        {
+          "file": "sounds/NeedHelp.wav",
+          "label": "Need help?",
+          "sha256": "6e0944ca21283980671d40fc36c3d25abb7c3b5710bd41ad5c54015cd0ebaee5"
+        },
+        {
+          "file": "sounds/Hello.wav",
+          "label": "Hello.",
+          "sha256": "110efafd3f37d335a7f9d9de7fc08526733714448b53e830acd8a78c50919c42"
+        },
+        {
+          "file": "sounds/GoodEvening.wav",
+          "label": "Good evening.",
+          "sha256": "7ecb500d668c00d069077646159de27a7931fb22207f9921ba8b784d84c508a0"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/Farewell.wav",
+          "label": "Farewell.",
+          "sha256": "666a3739f151144eeae38e4dde20f333c9d2a5e6f0aaa6c8e083a2b13bdb7ee8"
+        },
+        {
+          "file": "sounds/Goodbye.wav",
+          "label": "Goodbye.",
+          "sha256": "bf7995c6455436da50661d3414bcc354664bf7e38d25da20f73272569a569355"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/Goodbye.wav",
+          "label": "Goodbye.",
+          "sha256": "bf7995c6455436da50661d3414bcc354664bf7e38d25da20f73272569a569355"
+        },
+        {
+          "file": "sounds/Farewell.wav",
+          "label": "Farewell.",
+          "sha256": "666a3739f151144eeae38e4dde20f333c9d2a5e6f0aaa6c8e083a2b13bdb7ee8"
+        },
+        {
+          "file": "sounds/GoodEvening.wav",
+          "label": "Good evening.",
+          "sha256": "7ecb500d668c00d069077646159de27a7931fb22207f9921ba8b784d84c508a0"
+        }
+      ]
+    }
+  }
+}
