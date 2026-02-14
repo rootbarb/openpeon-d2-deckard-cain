@@ -1,7 +1,7 @@
 # Deckard Cain (Diablo 2) — OpenPeon Sound Pack
 
 <p align="center">
-  <img src="deckard-cain.png" alt="Deckard Cain" width="200">
+  <img src="deckard-cain.gif" alt="Deckard Cain" width="171">
 </p>
 
 <p align="center"><em>"Stay a while and listen!"</em></p>
