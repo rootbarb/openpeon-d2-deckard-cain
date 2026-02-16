@@ -18,11 +18,6 @@
           "sha256": "bf2e907a595e08a6021f3f2ff20551660df320a87adf2beb0d91dbce902264d3"
         },
         {
-          "file": "sounds/HelloMyFriend.wav",
-          "label": "Hello, my friend. Stay a while and listen.",
-          "sha256": "42206792e1e4dcbd9bc0238a86e797b90bb702641e083079657e463e88f8cbd5"
-        },
-        {
           "file": "sounds/Hello.wav",
           "label": "Hello.",
           "sha256": "110efafd3f37d335a7f9d9de7fc08526733714448b53e830acd8a78c50919c42"
@@ -43,17 +38,17 @@
         },
         {
           "file": "sounds/Help1.wav",
-          "label": "I can help.",
+          "label": "Help 1",
           "sha256": "4c6248f896aada2b695722c8df6099998719187563acfa89c6da40704f3a0618"
         },
         {
           "file": "sounds/Help2.wav",
-          "label": "Let me see...",
+          "label": "Help 2",
           "sha256": "c0af068fb28acfe115a852ad883813827c801d484b0220fda79ca037880568f8"
         },
         {
           "file": "sounds/Help3.wav",
-          "label": "Of course.",
+          "label": "Help 3",
           "sha256": "8fc7e161d32830a7a3f009d2bade98299198edb89631319988859c0b9c7d577e"
         }
       ]
@@ -75,20 +70,10 @@
           "label": "Good morning.",
           "sha256": "21063d577ffa6c887d00d54acd909a85f887b1ec7d8ae2e406018400905be1fa"
         },
-        {
-          "file": "sounds/Farewell.wav",
-          "label": "Farewell.",
-          "sha256": "666a3739f151144eeae38e4dde20f333c9d2a5e6f0aaa6c8e083a2b13bdb7ee8"
-        }
       ]
     },
     "task.error": {
       "sounds": [
-        {
-          "file": "sounds/NeedHelp.wav",
-          "label": "Need help?",
-          "sha256": "6e0944ca21283980671d40fc36c3d25abb7c3b5710bd41ad5c54015cd0ebaee5"
-        },
         {
           "file": "sounds/Goodbye.wav",
           "label": "Goodbye.",
@@ -135,23 +120,7 @@
       ]
     },
     "user.spam": {
-      "sounds": [
-        {
-          "file": "sounds/Goodbye.wav",
-          "label": "Goodbye.",
-          "sha256": "bf7995c6455436da50661d3414bcc354664bf7e38d25da20f73272569a569355"
-        },
-        {
-          "file": "sounds/Farewell.wav",
-          "label": "Farewell.",
-          "sha256": "666a3739f151144eeae38e4dde20f333c9d2a5e6f0aaa6c8e083a2b13bdb7ee8"
-        },
-        {
-          "file": "sounds/GoodEvening.wav",
-          "label": "Good evening.",
-          "sha256": "7ecb500d668c00d069077646159de27a7931fb22207f9921ba8b784d84c508a0"
-        }
-      ]
+      "sounds": []
     }
   }
 }
