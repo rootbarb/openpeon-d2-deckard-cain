@@ -84,19 +84,9 @@
     "input.required": {
       "sounds": [
         {
-          "file": "sounds/StayAWhileAndListen.wav",
-          "label": "Stay a while and listen!",
-          "sha256": "bf2e907a595e08a6021f3f2ff20551660df320a87adf2beb0d91dbce902264d3"
-        },
-        {
           "file": "sounds/NeedHelp.wav",
           "label": "Need help?",
           "sha256": "6e0944ca21283980671d40fc36c3d25abb7c3b5710bd41ad5c54015cd0ebaee5"
-        },
-        {
-          "file": "sounds/Hello.wav",
-          "label": "Hello.",
-          "sha256": "110efafd3f37d335a7f9d9de7fc08526733714448b53e830acd8a78c50919c42"
         },
         {
           "file": "sounds/GoodEvening.wav",
@@ -111,11 +101,6 @@
           "file": "sounds/Farewell.wav",
           "label": "Farewell.",
           "sha256": "666a3739f151144eeae38e4dde20f333c9d2a5e6f0aaa6c8e083a2b13bdb7ee8"
-        },
-        {
-          "file": "sounds/Goodbye.wav",
-          "label": "Goodbye.",
-          "sha256": "bf7995c6455436da50661d3414bcc354664bf7e38d25da20f73272569a569355"
         }
       ]
     },
