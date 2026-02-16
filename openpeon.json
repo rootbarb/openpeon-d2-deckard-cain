@@ -69,7 +69,7 @@
           "file": "sounds/GoodMorning.wav",
           "label": "Good morning.",
           "sha256": "21063d577ffa6c887d00d54acd909a85f887b1ec7d8ae2e406018400905be1fa"
-        },
+        }
       ]
     },
     "task.error": {
